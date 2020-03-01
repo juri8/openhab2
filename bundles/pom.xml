@@ -68,6 +68,7 @@
     <module>org.openhab.binding.denonmarantz</module>
     <module>org.openhab.binding.digiplex</module>
     <module>org.openhab.binding.digitalstrom</module>
+    <module>org.openhab.binding.diyonxbee</module>
     <module>org.openhab.binding.dlinksmarthome</module>
     <module>org.openhab.binding.dmx</module>
     <module>org.openhab.binding.doorbird</module>
