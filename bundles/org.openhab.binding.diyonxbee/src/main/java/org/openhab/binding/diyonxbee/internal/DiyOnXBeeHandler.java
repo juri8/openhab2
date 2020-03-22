@@ -39,7 +39,7 @@ public class DiyOnXBeeHandler extends BaseThingHandler {
     private final Logger logger = LoggerFactory.getLogger(DiyOnXBeeHandler.class);
 
     private @Nullable DiyOnXBeeConfiguration config;
-    private XBeeDevice dev;
+    private @Nullable XBeeDevice dev;
 
     public DiyOnXBeeHandler(Thing thing) {
         super(thing);
